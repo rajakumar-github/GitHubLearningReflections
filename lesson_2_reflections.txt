@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+We can initialize the Git repository using the Git init command. Once it is initialized it creates the empty repository. Only when repository is created we will be able to use the Git commands and features in that directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is an intermediate storage where files that we are planning to commit in the Repository can be stored temporarily.  By using Git add <FileName> command we can move the file to the storage area.  When we commit all those files that are there in Storage Area will be moved to Repository.
+
