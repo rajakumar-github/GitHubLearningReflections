@@ -1,0 +1,5 @@
+1)	When we go to our repository in the remote we can see the commit link. If we click that it shows how many commits happened along with the commit command.
+2)	If we want to create file directly in remote then click “CreateNewFile”.
+3)	Enter the content in the text box. 
+4)	Below there under commit new file, enter the commit comment as “Creating lesson_3_reflections.txt directly in remote GitHub”
+5)	Click Commit New File.
